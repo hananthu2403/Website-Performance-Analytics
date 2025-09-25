@@ -17,11 +17,6 @@ This project focuses on analyzing KPIs such as session duration, bounce rate, an
 
 ---
 
-## 📷 Dashboard Preview
-![Website Performance Dashboard](images/dashboard.png)
-
----
-
 ## 🛠 Tools & Technologies
 - **Power BI** (Data Visualization & Dashboarding)
 - **DAX** (Data Analysis Expressions)
@@ -31,8 +26,8 @@ This project focuses on analyzing KPIs such as session duration, bounce rate, an
 ---
 
 ## 📂 Files in this Repository
-- `Website_Performance_Analytics.pbix` → Power BI Dashboard file  
-- `/images/dashboard.png` → Dashboard preview screenshot  
+- `website_performance_analytics_dashboard.pbix` → Power BI Dashboard file  
+- `website_performance_analytics.csv` → CSV File with Data
 - `README.md` → Project documentation  
 
 ---
